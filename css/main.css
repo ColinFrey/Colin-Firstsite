@@ -1,6 +1,9 @@
 /* Place CSS styles here */
 body {
-    background-color: #2b3618;
+    background-color: #19192a;
+}
+a {
+    color:#9090ca
 }
 img {
     width: 250px;
